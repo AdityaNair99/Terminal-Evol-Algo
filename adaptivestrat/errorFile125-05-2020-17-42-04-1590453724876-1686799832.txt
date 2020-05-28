@@ -1,0 +1,141 @@
+Random seed: 8436568618005250830
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Got scored on at: [19, 5]
+All locations: [[19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5]]
+Performing turn 1 of your custom algo strategy
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5]]
+Got scored on at: [19, 5]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5]]
+Performing turn 2 of your custom algo strategy
+Performing turn 3 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8]]
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8]]
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8]]
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8]]
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8]]
+Got scored on at: [22, 8]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8]]
+Performing turn 4 of your custom algo strategy
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9]]
+Performing turn 5 of your custom algo strategy
+Could not spawn EF at location [14, 2]. Not enough resources.
+Performing turn 6 of your custom algo strategy
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not remove a unit from [13, 0]. Location has no firewall or is enemy territory.
+Could not remove a unit from [14, 0]. Location has no firewall or is enemy territory.
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10]]
+Performing turn 7 of your custom algo strategy
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Performing turn 8 of your custom algo strategy
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn FF at location [12, 1]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not remove a unit from [13, 0]. Location has no firewall or is enemy territory.
+Could not remove a unit from [14, 0]. Location has no firewall or is enemy territory.
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10]]
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10]]
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10]]
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10]]
+Performing turn 9 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn FF at location [13, 12]. Not enough resources.
+Could not spawn DF at location [18, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10]]
+Got scored on at: [24, 10]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10]]
+Performing turn 10 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [18, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn FF at location [9, 12]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [10, 10]. Not enough resources.
+Could not spawn DF at location [14, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not remove a unit from [13, 0]. Location has no firewall or is enemy territory.
+Could not remove a unit from [14, 0]. Location has no firewall or is enemy territory.
+Performing turn 11 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 11]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [18, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [10, 10]. Not enough resources.
+Could not spawn DF at location [14, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Could not spawn DF at location [4, 10]. Not enough resources.
+Could not spawn DF at location [8, 10]. Not enough resources.
+Could not spawn DF at location [12, 10]. Not enough resources.
+Could not spawn EF at location [22, 12]. Not enough resources.
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [19, 5], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [22, 8], [23, 9], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [24, 10], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got end state, game over. Stopping algo.

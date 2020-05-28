@@ -1,0 +1,21 @@
+Random seed: 6852473734559233414
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Could not spawn DF at location [12, 11]. Not enough resources.
+Traceback (most recent call last):
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\algo_strategy.py", line 279, in <module>
+    algo.start()
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\gamelib\algocore.py", line 74, in start
+    self.on_turn(game_state_string)
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\algo_strategy.py", line 70, in on_turn
+    self.my_strategy(game_state)
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\algo_strategy.py", line 89, in my_strategy
+    self.adaptive_defences(game_state)
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\algo_strategy.py", line 100, in adaptive_defences
+    unit = game_state.contains_stationary_unit(location)
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\gamelib\game_state.py", line 504, in contains_stationary_unit
+    if not self.game_map.in_arena_bounds(location):
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\staticstrat\gamelib\game_map.py", line 93, in in_arena_bounds
+    row_size = y + 1
+TypeError: can only concatenate list (not "int") to list

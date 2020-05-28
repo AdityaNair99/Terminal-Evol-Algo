@@ -1,0 +1,11 @@
+Random seed: 8361096996710992200
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Could not spawn EF at location [21, 9]. Not enough resources.
+Could not spawn EF at location [21, 10]. Not enough resources.
+Could not spawn EF at location [22, 10]. Not enough resources.
+Could not spawn EF at location [22, 9]. Not enough resources.
+Could not spawn EF at location [24, 10]. Not enough resources.
+Could not remove a unit from [23, 9]. Location has no firewall or is enemy territory.
+Got EOF, parent game process must have died, exiting for cleanup

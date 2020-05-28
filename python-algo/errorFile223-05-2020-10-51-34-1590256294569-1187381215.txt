@@ -1,0 +1,14 @@
+Random seed: 7206337130773455571
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Could not spawn DF at location [10, 17]. Location in enemy territory.
+Could not spawn DF at location [13, 17]. Location in enemy territory.
+Performing turn 1 of your custom algo strategy
+Could not spawn DF at location [10, 17]. Location in enemy territory.
+Could not spawn DF at location [13, 17]. Location in enemy territory.
+Could not spawn DF at location [2, 13]. Location is blocked.
+Could not spawn DF at location [3, 13]. Location is blocked.
+Could not spawn DF at location [24, 13]. Location is blocked.
+Could not spawn DF at location [25, 13]. Location is blocked.
+Got end state, game over. Stopping algo.

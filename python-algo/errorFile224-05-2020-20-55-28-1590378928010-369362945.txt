@@ -1,0 +1,7 @@
+Random seed: 1336522811353751399
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Could not spawn DF at location [10, 17]. Location in enemy territory.
+Could not spawn DF at location [13, 17]. Location in enemy territory.
+Got end state, game over. Stopping algo.

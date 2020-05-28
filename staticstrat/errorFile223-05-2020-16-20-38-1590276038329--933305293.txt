@@ -1,0 +1,193 @@
+Random seed: 6840076340295402366
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Performing turn 1 of your custom algo strategy
+Performing turn 2 of your custom algo strategy
+Performing turn 3 of your custom algo strategy
+Could not spawn DF at location [1, 13]. Not enough resources.
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Got scored on at: [4, 9]
+All locations: [[4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Performing turn 4 of your custom algo strategy
+Performing turn 5 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Performing turn 6 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Performing turn 7 of your custom algo strategy
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [6, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Got scored on at: [23, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9]]
+Performing turn 8 of your custom algo strategy
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Could not spawn DF at location [21, 10]. Not enough resources.
+Performing turn 9 of your custom algo strategy
+Could not spawn EF at location [13, 3]. Not enough resources.
+Performing turn 10 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 11 of your custom algo strategy
+Performing turn 12 of your custom algo strategy
+Performing turn 13 of your custom algo strategy
+Could not spawn EF at location [15, 3]. Not enough resources.
+Performing turn 14 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 15 of your custom algo strategy
+Performing turn 16 of your custom algo strategy
+Performing turn 17 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 18 of your custom algo strategy
+Performing turn 19 of your custom algo strategy
+Performing turn 20 of your custom algo strategy
+Performing turn 21 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 22 of your custom algo strategy
+Performing turn 23 of your custom algo strategy
+Performing turn 24 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 25 of your custom algo strategy
+Performing turn 26 of your custom algo strategy
+Performing turn 27 of your custom algo strategy
+Performing turn 28 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 29 of your custom algo strategy
+Performing turn 30 of your custom algo strategy
+Performing turn 31 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 32 of your custom algo strategy
+Performing turn 33 of your custom algo strategy
+Performing turn 34 of your custom algo strategy
+Performing turn 35 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 36 of your custom algo strategy
+Performing turn 37 of your custom algo strategy
+Performing turn 38 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Performing turn 39 of your custom algo strategy
+Performing turn 40 of your custom algo strategy
+Performing turn 41 of your custom algo strategy
+Performing turn 42 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 43 of your custom algo strategy
+Performing turn 44 of your custom algo strategy
+Performing turn 45 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 46 of your custom algo strategy
+Performing turn 47 of your custom algo strategy
+Performing turn 48 of your custom algo strategy
+Performing turn 49 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 50 of your custom algo strategy
+Performing turn 51 of your custom algo strategy
+Performing turn 52 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Performing turn 53 of your custom algo strategy
+Performing turn 54 of your custom algo strategy
+Performing turn 55 of your custom algo strategy
+Performing turn 56 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 57 of your custom algo strategy
+Performing turn 58 of your custom algo strategy
+Performing turn 59 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Performing turn 60 of your custom algo strategy
+Performing turn 61 of your custom algo strategy
+Performing turn 62 of your custom algo strategy
+Performing turn 63 of your custom algo strategy
+Could not remove a unit from [15, 1]. Location has no firewall or is enemy territory.
+Performing turn 64 of your custom algo strategy
+Performing turn 65 of your custom algo strategy
+Performing turn 66 of your custom algo strategy
+Could not remove a unit from [12, 1]. Location has no firewall or is enemy territory.
+Could not remove a unit from [11, 2]. Location has no firewall or is enemy territory.
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got scored on at: [4, 9]
+All locations: [[4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [23, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9], [4, 9]]
+Got end state, game over. Stopping algo.

@@ -1,0 +1,7 @@
+Random seed: 2723216810339850618
+Traceback (most recent call last):
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\adaptivestrat\algo_strategy.py", line 254, in <module>
+    algo = AlgoStrategy()
+  File "C:\Users\TheDonut\Documents\Berkeley\terminal\C1GamesStarterKit\adaptivestrat\algo_strategy.py", line 29, in __init__
+    with open("config.json") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
